@@ -1,4 +1,4 @@
-
+Todoist for macOS new Plugin: version history & goal tracking offers the most advanced Todoist for macOS plugin, with version history and goal tracking. Ideal for professionals.
 
 
 
